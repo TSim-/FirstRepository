@@ -1,0 +1,1 @@
+This repository was made to test my GitHub setup. It does nothing.
